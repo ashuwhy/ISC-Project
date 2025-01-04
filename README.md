@@ -1,6 +1,6 @@
 # ISC Project 2022
 
-The final files for printing is here [Final](https://github.com/alexshcer/ISC-Project/tree/main/Final).
+The final files for printing is here [Final](https://github.com/ashywhy/ISC-Project/tree/main/Final).
 
 <h2>Requirements</h2>
 
@@ -27,9 +27,8 @@ The final files for printing is here [Final](https://github.com/alexshcer/ISC-Pr
 
 <h2>Developers</h2>
 
-🔵 alexshcer(AS).
-- GitHub: [alexshcer](https://www.github.com/alexshcer)
-- Discord: [WhatANameHmm](https://www.discord.com/users/827559876603412591)
+🔵 ashywhy(AS).
+- GitHub: [ashywhy](https://www.github.com/ashuwhy)
 
 🔵 anmol420.
 - GitHub: [anmol420](https://www.github.com/anmol420)
@@ -42,5 +41,5 @@ The final files for printing is here [Final](https://github.com/alexshcer/ISC-Pr
 
 <h2>License</h2>
 
-Copyright © 2022 alexshcer<br>
+Copyright © 2022 ashywhy<br>
 This project is [MIT](https://en.wikipedia.org/wiki/MIT_License) Licensed.
